@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/perf-bench/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/perf-bench/actions)
+[![License](https://img.shields.io/github/license/Tox1469/perf-bench?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/perf-bench?style=flat-square)](https://github.com/Tox1469/perf-bench/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/perf-bench?style=flat-square)](https://github.com/Tox1469/perf-bench/stargazers)
+
+---
+
 # perf-bench
 
 Runner simples de microbenchmark com medicao em nanossegundos, warmup e relatorio ops/sec.
