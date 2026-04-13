@@ -1,0 +1,24 @@
+{
+  "name": "perf-bench",
+  "version": "1.0.0",
+  "description": "Runner simples de microbenchmark com medicao em nanossegundos, warmup e relatorio ops/sec.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "benchmark",
+    "perf",
+    "performance",
+    "ops",
+    "test"
+  ],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
